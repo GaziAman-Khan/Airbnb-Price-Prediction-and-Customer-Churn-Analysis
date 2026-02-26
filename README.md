@@ -9,6 +9,10 @@ This project focuses on two real-world business problems:
 
 The goal was to apply machine learning techniques to generate actionable insights for pricing optimization and customer retention.
 
+# PROJECT EXPLANATION VIDEO
+Part A - https://www.loom.com/share/7f0330f13e3e43f981a5c9d1d12e0192
+Part B - https://www.loom.com/share/637afaa5d04f4bd1a4bd6029c6addd18
+
 # PART A - Airbnb Price Prediction
 -Performed data cleaning and feature engineering
 -Built and compared: Linear Regression, XGBoost
